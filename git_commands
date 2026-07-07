@@ -1,3 +1,38 @@
+
+ mkdir madhu
+  491  cd madhu
+  492  touch madhu
+  493  git add madhu
+  494  git init
+  495  git add madhu
+  496  git status
+  497  git commit -m "add madhu"
+  498  git status
+  499  git log --oneline
+  500  git remote add origin https://github.com/akashmorepatil28/madhu-github-devops.git
+  501  git remote -v
+  502  git push -u origin master
+  503  cd github
+  504  ls
+  505  git status
+  506  git log --oneline mkdir madhu
+  491  cd madhu
+  492  touch madhu
+  493  git add madhu
+  494  git init
+  495  git add madhu
+  496  git status
+  497  git commit -m "add madhu"
+  498  git status
+  499  git log --oneline
+  500  git remote add origin https://github.com/akashmorepatil28/madhu-github-devops.git
+  501  git remote -v
+  502  git push -u origin master
+  503  cd github
+  504  ls
+  505  git status
+  506  git log --oneline
+=======
 491  cd madhu
   492  touch madhu
   493  git add madhu
@@ -31,4 +66,4 @@
   505  git status
   506  git log --oneline
 
-this is the new change for github 
+this is the new change for git
